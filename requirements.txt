@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pyautogui
+pynput
+numpy
+python_version >= "3.8" and <= "3.10"
