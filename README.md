@@ -39,4 +39,5 @@ For more details, refer to the [MediaPipe Hand Landmarks Documentation](https://
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_name/Virtual-Mouse.git
+2. Run Virtual_Mouse.ipynb to run the application.
 
