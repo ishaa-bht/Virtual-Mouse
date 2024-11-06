@@ -7,6 +7,28 @@ A Python-based gesture control application that uses a webcam to detect hand ges
 - Gesture-based screenshots.
 - Tracks hand gestures in real-time using a webcam.
 
+# Hand Gesture Control with MediaPipe
+
+This project uses MediaPipe's `Hands` module to detect hand gestures and control the mouse cursor.
+
+## Gesture Detection Example
+
+Below is an example of how hand landmarks are detected using MediaPipe:
+
+![Hand Landmarks Example](https://mediapipe.dev/images/mobile/hand_landmarks.png)
+
+*Image Source: MediaPipe Documentation*
+
+For more details, refer to the [MediaPipe Hand Landmarks Documentation](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html).
+
+## Installation
+
+1. Install Python 3.8 to 3.10 (for MediaPipe compatibility).
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+
 ## Setup
 
 ### Prerequisites
